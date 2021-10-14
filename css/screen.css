@@ -38,7 +38,13 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 html {
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-  font-size: 22px; /* 18 / 16 = 1.125*/
+  font-size: 28px; /* 18 / 16 = 1.125*/
   line-height: 28px;
+}
+h1,
+h2,
+h3,
+p {
+  padding-bottom: 28px;
 }
 /* Begin site styles below */
